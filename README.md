@@ -65,7 +65,7 @@
     ░░░░░░░░░░░░░░░░░░░░░░░▒▒▓▒░░░░░░░░░░░░░░░░░░░░░░░
  
    Jann Choy – BBC Habitat
-    <p>BBC Habitat is an app that tracks user’s carbon footprint with their chosen data source, such as delivery and city mapper. Users can choose their virtual habitat from a coral reef to a rain forest, the more environmentally friendly their choices are, the more their habitat will flourish.  This app empowers users to take control of their environmental impact. </p>
+   BBC Habitat is an app that tracks user’s carbon footprint with their chosen data source, such as delivery and city mapper. Users can choose their virtual habitat from a coral reef to a rain forest, the more environmentally friendly their choices are, the more their habitat will flourish.  This app empowers users to take control of their environmental impact. 
 
 
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -84,7 +84,7 @@
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
    Touchy-Feely Tech
-    <p>Touchy-Feely Tech allows everyone to make, customize and enjoy their very own vibrator. By combining hardware, software skills and hands on craft, users can customize their vibrator every step of the way, to achieve a greater intimacy under their own possession.</p>
+   Touchy-Feely Tech allows everyone to make, customize and enjoy their very own vibrator. By combining hardware, software skills and hands on craft, users can customize their vibrator every step of the way, to achieve a greater intimacy under their own possession.
     
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -113,7 +113,7 @@
     ██████████████████████████████████████████████████
 
    Forest - Stay focused, be present
-    <p>Forest is an app that helps users stay focused by limiting the use of their phones. Users can set the time they want to be focused and choose a tree design, using their phones halfway will cause the tree to die. The longer they stay focused on study, work, social or rest etc., the more trees their virtual forest will have and the more game coins they will earn. Users can use the coins to plant an actual tree in Sub Saharan Africa.</p>
+   Forest is an app that helps users stay focused by limiting the use of their phones. Users can set the time they want to be focused and choose a tree design, using their phones halfway will cause the tree to die. The longer they stay focused on study, work, social or rest etc., the more trees their virtual forest will have and the more game coins they will earn. Users can use the coins to plant an actual tree in Sub Saharan Africa.
 
 
     █░█░█ █ ▀█▀ █░█   █▀▀ █▀█ █▀▀ ▄▀█ ▀█▀ █ █░█ █▀▀   █▀▀ █▀█ █▀▄▀█ █▀█ █░█ ▀█▀ █ █▄░█ █▀▀ ░   █░█░█ █░█ ▄▀█ ▀█▀
