@@ -26,6 +26,8 @@
                   ██║░░██║██║░░██║░░░██║░░░    ██████╔╝███████╗██████╔╝██║╚██████╔╝██║░╚███║
                   ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░    ╚═════╝░╚══════╝╚═════╝░╚═╝░╚═════╝░╚═╝░░╚══╝
                   
+# By Katherine Tso                  
+                  
  
     █ █▄░█ ▀█▀ █▀█ █▀█ █▀▄ █░█ █▀▀ ▀█▀ █ █▀█ █▄░█
     █ █░▀█ ░█░ █▀▄ █▄█ █▄▀ █▄█ █▄▄ ░█░ █ █▄█ █░▀█      
@@ -65,7 +67,7 @@ Being someone who has never come across creative computing, I am curious with ho
     ░░░░░░░░░░░░░░░░░░░░░░░▒▒▓▒░░░░░░░░░░░░░░░░░░░░░░░
  
    Jann Choy – BBC Habitat
-BBC Habitat is an app that tracks user’s carbon footprint with their chosen data source, such as delivery and city mapper. Users can choose their virtual habitat from a coral reef to a rain forest, the more environmentally friendly their choices are, the more their habitat will flourish.  This app empowers users to take control of their environmental impact. 
+<p>BBC Habitat is an app that tracks user’s carbon footprint with their chosen data source, such as delivery and city mapper. Users can choose their virtual habitat from a coral reef to a rain forest, the more environmentally friendly their choices are, the more their habitat will flourish.  This app empowers users to take control of their environmental impact.</p> 
 
 
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -84,7 +86,7 @@ BBC Habitat is an app that tracks user’s carbon footprint with their chosen da
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
    Touchy-Feely Tech
-Touchy-Feely Tech allows everyone to make, customize and enjoy their very own vibrator. By combining hardware, software skills and hands on craft, users can customize their vibrator every step of the way, to achieve a greater intimacy under their own possession.
+<p>Touchy-Feely Tech allows everyone to make, customize and enjoy their very own vibrator. By combining hardware, software skills and hands on craft, users can customize their vibrator every step of the way, to achieve a greater intimacy under their own possession.</p>
     
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -113,7 +115,7 @@ Touchy-Feely Tech allows everyone to make, customize and enjoy their very own vi
     ██████████████████████████████████████████████████
 
    Forest - Stay focused, be present
-Forest is an app that helps users stay focused by limiting the use of their phones. Users can set the time they want to be focused and choose a tree design, using their phones halfway will cause the tree to die. The longer they stay focused on study, work, social or rest etc., the more trees their virtual forest will have and the more game coins they will earn. Users can use the coins to plant an actual tree in Sub Saharan Africa.
+<p>Forest is an app that helps users stay focused by limiting the use of their phones. Users can set the time they want to be focused and choose a tree design, using their phones halfway will cause the tree to die. The longer they stay focused on study, work, social or rest etc., the more trees their virtual forest will have and the more game coins they will earn. Users can use the coins to plant an actual tree in Sub Saharan Africa.</p>
 
 
     █░█░█ █ ▀█▀ █░█   █▀▀ █▀█ █▀▀ ▄▀█ ▀█▀ █ █░█ █▀▀   █▀▀ █▀█ █▀▄▀█ █▀█ █░█ ▀█▀ █ █▄░█ █▀▀ ░   █░█░█ █░█ ▄▀█ ▀█▀
@@ -125,7 +127,7 @@ Forest is an app that helps users stay focused by limiting the use of their phon
     █▀▀ █▀█ █▀▄▀█ █▀▄▀█ █░█ █▄░█ █ ▀█▀ █▄█   █▀█ █░░ ▄▀█ █▄█   █ █▄░█   ▀█▀ █░█ █ █▀   █▀ █▀█ █▀▀ █ █▀▀ ▀█▀ █▄█ ▀█
     █▄▄ █▄█ █░▀░█ █░▀░█ █▄█ █░▀█ █ ░█░ ░█░   █▀▀ █▄▄ █▀█ ░█░   █ █░▀█   ░█░ █▀█ █ ▄█   ▄█ █▄█ █▄▄ █ ██▄ ░█░ ░█░ ░▄
     
-  𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛𝚜 𝚜𝚝𝚊𝚗𝚍 𝚊 𝚏𝚘𝚘𝚝 𝚒𝚗 𝚝𝚠𝚘 𝚠𝚘𝚛𝚕𝚍𝚜, 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚗𝚍 𝚑𝚞𝚖𝚊𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎𝚜
+### 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛𝚜 𝚜𝚝𝚊𝚗𝚍 𝚊 𝚏𝚘𝚘𝚝 𝚒𝚗 𝚝𝚠𝚘 𝚠𝚘𝚛𝚕𝚍𝚜, 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚗𝚍 𝚑𝚞𝚖𝚊𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎𝚜
    
 The designs above share a common feature, they address wicked problems that our society faces nowadays. Take Forest as an example, the app connects people from different parts the world by tackling different social issues that they each face and creating an interdependent relationship among them. In a world surrounded by technology and digital devices, it is hard not be distracted, Forest which is also a tree-planting organization, helps people stay focus and take a break from the digital world. In return, the effort they make can help people break out of the poverty trap, leave opportunities through sustainable practices, and produce revitalised land for future generations. 
     
