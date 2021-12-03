@@ -138,3 +138,15 @@ Going back to the question, artist and designers can take their creative ideas i
     █▀▄ ██▄ █▀░ █▄▄ ██▄ █▄▄ ░█░ █ █▄█ █░▀█
     
 Looking back at this project, it was short, yet it changed my perspective on art and design. I have never imagined that creative computing and coding have a direct relationship our design practice. In the process of doing my own research, I realised that most apps/ software around us have elements design in it, such as the app I used to use to have me focus on my studies. I am excited to take forward with what I have learned about creative computing in this unit and explore more possibilities of my creative practice in future projects.
+
+
+
+
+████████╗███████╗███████╗████████╗██╗███╗   ██╗ ██████╗ 
+╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██║████╗  ██║██╔════╝ 
+   ██║   █████╗  ███████╗   ██║   ██║██╔██╗ ██║██║  ███╗
+   ██║   ██╔══╝  ╚════██║   ██║   ██║██║╚██╗██║██║   ██║
+   ██║   ███████╗███████║   ██║   ██║██║ ╚████║╚██████╔╝
+   ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+                                                        
+
